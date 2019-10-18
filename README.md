@@ -1,6 +1,6 @@
 # 2019_10_12_dta
 
-# Bank CDM Data: A Decision Tree Approach
+## Bank CDM Data: A Decision Tree Approach
 
 A direct marketing campaign (phone calls) generates valuable data to be used for banking institution.
 
